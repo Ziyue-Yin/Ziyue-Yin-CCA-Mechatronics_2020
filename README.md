@@ -1,5 +1,14 @@
 # Ziyue-Yin_CCA_Mechatronics_2020
 
+## week7
+
+- In this week, Sissi, Tianbai and I work as a group to create the vehicle project. In our project, we make a vehicle which can avoid the obstacles and change the direction. 
+
+ ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%207/mid%20term%20vehicle.GIF)  
+ 
+ - Then we use the led as an output. 
+  ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%207%20/midterm%20pic/251584067709_.pic_hd.jpg)  
+
 ## week5
 
 In week 5, I attempt the digital screen display. This is one part of my midterm work. I plan to create a device that can detect the distance. The number of distance can display on the digital screen. Previously, I got fair on the screen, which showed only the several squares on it. Then professor and I try to figure it out. There is a mistake with the wire connection. Then we tried to reconnect it. It works as I expect.
