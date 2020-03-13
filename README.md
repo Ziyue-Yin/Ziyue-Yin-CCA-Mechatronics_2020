@@ -6,7 +6,7 @@
 
  ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%207/mid%20term%20vehicle.GIF)  
  
- - Then we use the led as an output. 
+ - Then we use the led as an output to develop our device. 
   ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%207%20/midterm%20pic/251584067709_.pic_hd.jpg)  
   
 ## week6
@@ -15,9 +15,10 @@ In week6, I make some sketches to describe how can I create a vehicle. At the be
 
  ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%206%20sketch/IMG_6989.JPG)  
 
-In this sketch, I am going to laser cut the wheels to assemble the vehicle.
+In this sketch, I am going to laser cut the wheels to assemble the vehicle. I measure the size of the wheels and the board on the top of the vehicle. (Sorry to write in Chinese, it is to understand easier for me.)
 
  ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%206%20sketch/IMG_6988.JPG)  
+ 
 
 ## week5
 
