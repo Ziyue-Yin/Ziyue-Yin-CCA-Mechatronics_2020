@@ -8,6 +8,10 @@
  
  - Then we use the led as an output. 
   ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%207%20/midterm%20pic/251584067709_.pic_hd.jpg)  
+  
+## week6
+
+
 
 ## week5
 
