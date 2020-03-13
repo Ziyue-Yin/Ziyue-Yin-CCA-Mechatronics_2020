@@ -11,7 +11,13 @@
   
 ## week6
 
+In week6, I make some sketches to describe how can I create a vehicle. At the beginning, I attempted to create a vehicle only with two motors. Later I found that it is difficult to make the vehicle change the direction. Then I decided to create a vehicle with 4 motors to motivate the wheels. 
 
+ ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%206%20sketch/IMG_6989.JPG)  
+
+In this sketch, I am going to laser cut the wheels to assemble the vehicle.
+
+ ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/week%206%20sketch/IMG_6988.JPG)  
 
 ## week5
 
