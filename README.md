@@ -15,8 +15,9 @@
 - LDR : https://youtu.be/4fN1aJMH9mM
 
 #### Process part 1:
-
-
+- Install the LDR 
+- Ultrasonic sensor and Speaker
+- LED Sensor
 
 ## Week 11: Final Project Proposal
 
