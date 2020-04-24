@@ -9,9 +9,8 @@
 - LED light will turn on fade with the speaker's voice at the same time.
 
 #### Resources of the sensors:
-- Ultrasonic sensor: https://youtu.be/ZejQOX69K5M 
+- Ultrasonic sensor with speaker: https://youtu.be/gLDoFxYp-Ek
 - LED Fade : https://youtu.be/emPE8WUIFRg
-- MP3 Speaker with Ultrasonic Sensor: https://youtu.be/vjfH8zOcgBY
 - LDR : https://www.youtube.com/watch?v=qKku-mmwNIA
 
 #### Process part 1:
