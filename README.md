@@ -12,7 +12,7 @@
 - Ultrasonic sensor: https://youtu.be/ZejQOX69K5M 
 - LED Fade : https://youtu.be/emPE8WUIFRg
 - MP3 Speaker with Ultrasonic Sensor: https://youtu.be/vjfH8zOcgBY
-- LDR : 
+- LDR : https://www.youtube.com/watch?v=qKku-mmwNIA
 
 #### Process part 1:
 - Install the LDR 
