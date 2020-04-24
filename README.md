@@ -5,7 +5,17 @@
 ### Project revise: 
 - Use the light sensor to achieve the function of switch: The device turn on during the night, turn off at the daytime.
 - The MP3 speaker cable is to play the voice of "Get away from my house!"
-- Distance sensor to 
+- Distance sensor to perceive if the stangers come close to the outdoor.
+- LED light will turn on fade with the speaker's voice at the same time.
+
+#### Resources of the sensors:
+- Distance sensor: 
+- LED Fade : 
+- MP3 Speaker Cable: 
+- Light sensor: 
+
+#### Process part 1:
+
 
 
 ## Week 11: Final Project Proposal
