@@ -3,16 +3,16 @@
 ## Week 12: Final Project Part 1
 
 ### Project revise: 
-- Use the light sensor to achieve the function of switch: The device turn on during the night, turn off at the daytime.
+- Use the LDR  to achieve the function of switch: The device turn on during the night, turn off at the daytime.
 - The MP3 speaker cable is to play the voice of "Get away from my house!"
 - Distance sensor to perceive if the stangers come close to the outdoor.
 - LED light will turn on fade with the speaker's voice at the same time.
 
 #### Resources of the sensors:
-- Distance sensor: 
-- LED Fade : 
+- Distance sensor: https://youtu.be/ZejQOX69K5M
+- LED Fade : https://youtu.be/emPE8WUIFRg
 - MP3 Speaker Cable: 
-- Light sensor: 
+- LDR : 
 
 #### Process part 1:
 
