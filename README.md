@@ -1,5 +1,13 @@
 # Ziyue-Yin_CCA_Mechatronics_2020
 
+## Week 12: Final Project Part 1
+
+### Project revise: 
+- Use the light sensor to achieve the function of switch: The device turn on during the night, turn off at the daytime.
+- The MP3 speaker cable is to play the voice of "Get away from my house!"
+- Distance sensor to 
+
+
 ## Week 11: Final Project Proposal
 
 ### Concept: Get away from my house!
