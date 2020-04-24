@@ -9,7 +9,7 @@
 - LED light will turn on fade with the speaker's voice at the same time.
 
 #### Resources of the sensors:
-- Distance sensor: https://youtu.be/ZejQOX69K5M
+- Ultrasonic sensor: https://youtu.be/ZejQOX69K5M
 - LED Fade : https://youtu.be/emPE8WUIFRg
 - MP3 Speaker Cable: 
 - LDR : 
