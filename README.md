@@ -14,9 +14,23 @@
 - LDR : https://www.youtube.com/watch?v=qKku-mmwNIA
 
 #### Process part 1:
-- Install the LDR 
-- Ultrasonic sensor and Speaker
-- LED Sensor
+- Steps to do:
+- - Install the LDR 
+- - Ultrasonic sensor and Speaker
+- - LED Sensor
+
+##### Attempt of part 1:
+1\ During this week, I attempt to install the ultrasonic sensor, LDR and the LEDs together. 
+At first step, I coded the Ultrasonic sensor and LED together, then coded the LDR seperately. 
+I would like to use the red LED and the Green LED first. When the distance is less than 5 cm, the red light will turn on and meanwhile the Speaker will work. When the distance is more than 5 cm, the Green LED will turn on and the red one will turn off. 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/IMG_0181.jpeg)  
+Problems:
+When I finish the code, the distance sensor can work, but the LEDs cannot work at the same time. 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/IMG_0182.jpeg)  
+
+##### NEXT Step for the work: 
+Next week, I am going to fix the LEDs' problem first, and then code the LDR, leds, Ultrasonic Sensor and Speaker togther. 
+
 
 ## Week 11: Final Project Proposal
 
