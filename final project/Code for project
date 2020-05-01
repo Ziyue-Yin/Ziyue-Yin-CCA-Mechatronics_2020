@@ -75,7 +75,7 @@ void loop()
   // establish variables for duration of the ping, 
   // and the distance result in inches and centimeters:
 
-  if(measureDistance(trigPin,echoPin)<50){
+  if(inch < 5){
 sendCommand(CMD_PLAY_WITHFOLDER, 0X0203);//play the third song of the second folder
 delay(1000);//wait to avoid errors
 }
@@ -138,16 +138,3 @@ void sendCommand(int8_t command, int16_t dat)
  Serial.println();
 }
 
-
-
-long microsecondsToInches(long microseconds)
-{
-  return microseconds / 74 / 2;
-}
-
-long microsecondsToCentimeters(long microseconds)
-{
-  // The speed of sound is 340 m/s or 29 microseconds per centimeter.
- 
-  return microseconds / 29 / 2;
-}
